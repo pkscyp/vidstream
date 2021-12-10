@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:1800,Your Honor 2021
+https://s13.speedostream.com/hls/i7dmp2b7qxb7o2nqgctvlyoppp5nq7ai3emhxg6vsxuvs3gn7zouwutekdia/index-v1-a1.m3u8
+
+#EXTINF:1800,Tryst with Destiny
+https://s8.speedostream.com/hls/i7dmppz5qxb7o2nqgctvlk44ec6xpajwrt23geobqhxjrgbgvtozsv3oyk7a/index-v1-a1.m3u8
+
 #EXTINF:1800,Sooriyawansi2 2021
 https://s22.speedostream.com/hls/i7dmp7jrqxb7o2nqgctvlowreaugcmzbkj6hhfqnbadss2sc7zolpc33foma/index-v1-a1.m3u8
 
