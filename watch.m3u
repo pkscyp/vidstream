@@ -1,6 +1,13 @@
 #EXTM3U
-#EXTINF:1800,Money Mafia
+#EXTINF:1800,Money Mafia1
+https://s25.speedostream.com/hls/i7dmigj2qxb7o2nqgctvl2gvfylrg2ve3gphy7xhu3p2bowq7heqmmothtca/index-v1-a1.m3u8
+
+#EXTINF:1800,Money Mafia2
 https://s25.speedostream.com/hls/i7dmifr2qxb7o2nqgctvlyoqfwwwxvjepujyngjn33vmjvl43uo3ivtxvzdq/index-v1-a1.m3u8
+#EXTINF:1800,Money Mafia3
+https://s25.speedostream.com/hls/i7dmifz2qxb7o2nqgctvll6on4kbcc5p4bqzm4czs2np5fftffhppuu4g7la/index-v1-a1.m3u8
+#EXTINF:1800,Money Mafia4
+https://s25.speedostream.com/hls/i7dmifr2qxb7o2nqgctvlyoqfwwwxvjepujyngjn33vmjvl43uo3axlxvzcq/index-v1-a1.m3u8
 
 #EXTINF:1800,Ranjish Hi Sahi2
 https://s31.speedostream.com/hls/i7dmpgjtqxb7o2nqgctvlimuowqly33e3pn7wou7hb5dfzna7ugrg6p2rknq/index-v1-a1.m3u8
