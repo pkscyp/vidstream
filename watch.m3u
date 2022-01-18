@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:1800,Missing Chapter
+https://s24.speedostream.com/hls/i7dmjqzqqxb7o2nqgctvlm6io72cm6cuqkm66ly2oncqngaqa3u65a36mj2a/index-v1-a1.m3u8
+
 #EXTINF:1800,Money Mafia1
 https://s25.speedostream.com/hls/i7dmigj2qxb7o2nqgctvl2gvfylrg2ve3gphy7xhu3p2bowq7heqmmothtca/index-v1-a1.m3u8
 
