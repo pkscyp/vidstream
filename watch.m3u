@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:1800, Sutliyan 
+https://s23.speedostream.com/hls/i7dmp2buqxb7o2nqgctfl2ghnshc3kxjimlucg77nrfauug75oecpiuudmka/index-v1-a1.m3u8
+
 #EXTINF:1800, Undekhi 
 https://s18.speedostream.com/hls/i7dmp6juqxb7o2nqgctflmofpfx5igutmelasxuvbn5be2d5ft2lskgekzeq/index-v1-a1.m3u8
 
