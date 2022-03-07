@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:1800, Sutliyan three
+https://www267.akamai-cdn-content.com/hls/tysxflk4rs6oj6cdaauqtvkbonqb7wc7hs4jsi56fuy4kpa2ie5npci4q5jq/index-v1-a1.m3u8
+
 #EXTINF:1800, Sutliyan two
 https://www267.akamai-cdn-content.com/hls/tysxflk4rs6oj6cdaauqtvkbonqb7wc7hs4jsi56fuy4kpa2ie5msga4q5jq/index-v1-a1.m3u8
 
