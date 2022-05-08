@@ -1,7 +1,12 @@
 #EXTM3U
 
+#EXTINF:1800,Jhund 1
+https://casia.evosrv.com/EvoStreams/OJwl552wITR013dIyBPO.mkv.mp4?md5=qOBvqgWSIAy8eTNQOu7Wmw&expires=1651995302
+
 #EXTINF:1800,Thar 
 https://phl.ydc1wes.me/hls/i7dmpmsjqxb7o2nqgctfll6pmj2hbmffxio5v3n6vqauqmwrty6aqdw4o62q/index-v1-a1.m3u8
+
+
 
 #EXTINF:1800,Jhund
 https://casia.evosrv.com/EvoStreams/OJwl552wITR013dIyBPO.mkv.mp4?md5=-BDqIQ7dlg8IsL4-Jlf5yA&expires=1651901244
